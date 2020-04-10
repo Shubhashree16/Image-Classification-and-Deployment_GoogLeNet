@@ -5,7 +5,7 @@
 
 
 import os
-from googlenet import GoogLeNet
+from .googlenet import GoogLeNet
 import torch
 
 def getModel(training=False,**kwargs):
