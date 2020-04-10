@@ -1,0 +1,42 @@
+Saving the current best model. Previous best loss = inf Current best loss = 1.0879168947219848
+[ Epochs 0 | 30 ] :  train Loss: 1.4179 Acc: 0.4835 val Loss: 1.0879 Acc: 0.6139
+Saving the current best model. Previous best loss = 1.0879168947219848 Current best loss = 0.8000544173240661
+[ Epochs 1 | 30 ] :  train Loss: 0.9054 Acc: 0.6810 val Loss: 0.8001 Acc: 0.7148
+Saving the current best model. Previous best loss = 0.8000544173240661 Current best loss = 0.7217270231246948
+[ Epochs 2 | 30 ] :  train Loss: 0.7191 Acc: 0.7501 val Loss: 0.7217 Acc: 0.7555
+Saving the current best model. Previous best loss = 0.7217270231246948 Current best loss = 0.6164438800811768
+[ Epochs 3 | 30 ] :  train Loss: 0.6091 Acc: 0.7897 val Loss: 0.6164 Acc: 0.7938
+[ Epochs 4 | 30 ] :  train Loss: 0.5298 Acc: 0.8191 val Loss: 0.6890 Acc: 0.7632
+Saving the current best model. Previous best loss = 0.6164438800811768 Current best loss = 0.5169569478988647
+[ Epochs 5 | 30 ] :  train Loss: 0.4746 Acc: 0.8352 val Loss: 0.5170 Acc: 0.8215
+[ Epochs 6 | 30 ] :  train Loss: 0.4359 Acc: 0.8520 val Loss: 0.5409 Acc: 0.8204
+Saving the current best model. Previous best loss = 0.5169569478988647 Current best loss = 0.4865549838066101
+[ Epochs 7 | 30 ] :  train Loss: 0.3993 Acc: 0.8630 val Loss: 0.4866 Acc: 0.8396
+Saving the current best model. Previous best loss = 0.4865549838066101 Current best loss = 0.47201270360946657
+[ Epochs 8 | 30 ] :  train Loss: 0.3750 Acc: 0.8711 val Loss: 0.4720 Acc: 0.8374
+Saving the current best model. Previous best loss = 0.47201270360946657 Current best loss = 0.43827112505435945
+[ Epochs 9 | 30 ] :  train Loss: 0.3419 Acc: 0.8829 val Loss: 0.4383 Acc: 0.8553
+[ Epochs 10 | 30 ] :  train Loss: 0.3243 Acc: 0.8892 val Loss: 0.5182 Acc: 0.8364
+Saving the current best model. Previous best loss = 0.43827112505435945 Current best loss = 0.338608482837677
+[ Epochs 11 | 30 ] :  train Loss: 0.2976 Acc: 0.8982 val Loss: 0.3386 Acc: 0.8860
+[ Epochs 12 | 30 ] :  train Loss: 0.2838 Acc: 0.9022 val Loss: 0.3539 Acc: 0.8793
+[ Epochs 13 | 30 ] :  train Loss: 0.2680 Acc: 0.9084 val Loss: 0.5097 Acc: 0.8362
+Saving the current best model. Previous best loss = 0.338608482837677 Current best loss = 0.3222847972869873
+[ Epochs 14 | 30 ] :  train Loss: 0.2568 Acc: 0.9105 val Loss: 0.3223 Acc: 0.8921
+[ Epochs 15 | 30 ] :  train Loss: 0.2452 Acc: 0.9139 val Loss: 0.3717 Acc: 0.8763
+[ Epochs 16 | 30 ] :  train Loss: 0.2283 Acc: 0.9208 val Loss: 0.3537 Acc: 0.8860
+[ Epochs 17 | 30 ] :  train Loss: 0.2211 Acc: 0.9228 val Loss: 0.3299 Acc: 0.8940
+[ Epochs 18 | 30 ] :  train Loss: 0.2080 Acc: 0.9272 val Loss: 0.3451 Acc: 0.8896
+Saving the current best model. Previous best loss = 0.3222847972869873 Current best loss = 0.32014431610107424
+[ Epochs 19 | 30 ] :  train Loss: 0.1956 Acc: 0.9326 val Loss: 0.3201 Acc: 0.8966
+[ Epochs 20 | 30 ] :  train Loss: 0.1873 Acc: 0.9350 val Loss: 0.3587 Acc: 0.8867
+[ Epochs 21 | 30 ] :  train Loss: 0.1856 Acc: 0.9356 val Loss: 0.4306 Acc: 0.8714
+Saving the current best model. Previous best loss = 0.32014431610107424 Current best loss = 0.2969168293952942
+[ Epochs 22 | 30 ] :  train Loss: 0.1741 Acc: 0.9399 val Loss: 0.2969 Acc: 0.9046
+[ Epochs 23 | 30 ] :  train Loss: 0.1676 Acc: 0.9416 val Loss: 0.3575 Acc: 0.8916
+[ Epochs 24 | 30 ] :  train Loss: 0.1593 Acc: 0.9447 val Loss: 0.3213 Acc: 0.9015
+[ Epochs 25 | 30 ] :  train Loss: 0.1589 Acc: 0.9438 val Loss: 0.3117 Acc: 0.8997
+[ Epochs 26 | 30 ] :  train Loss: 0.1483 Acc: 0.9491 val Loss: 0.3608 Acc: 0.8899
+[ Epochs 27 | 30 ] :  train Loss: 0.1411 Acc: 0.9510 val Loss: 0.3047 Acc: 0.9053
+[ Epochs 28 | 30 ] :  train Loss: 0.1354 Acc: 0.9529 val Loss: 0.3106 Acc: 0.9054
+[ Epochs 29 | 30 ] :  train Loss: 0.1350 Acc: 0.9531 val Loss: 0.3475 Acc: 0.8929
