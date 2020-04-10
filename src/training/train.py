@@ -12,8 +12,8 @@ from functools import partial
 from torch.optim import lr_scheduler
 from torch import nn
 from torch import optim
-from build_model import getModel
-from training_data import Cifar10Data
+from ..model import getModel
+from ..data import Cifar10Data
 
 def check_for_dir(*args_path):
     for path in args_path:
