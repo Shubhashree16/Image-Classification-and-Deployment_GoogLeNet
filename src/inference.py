@@ -8,7 +8,7 @@ from torchvision import  transforms
 class Inference:
     def __init__(self, save_model_filename="saved_weights.pt"):
         self.classes = ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship','truck']
-        self.model = getModel(training=False,num_classes=len(self.classes))
+        self.model = getModel(training=False)
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model.load_state_dict(torch.load(f"./src/saved_weights/{save_model_filename}",map_location=device))
         return None
